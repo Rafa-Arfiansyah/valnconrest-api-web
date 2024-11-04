@@ -24,44 +24,32 @@
               <a href="#" class="inline-flex space-x-6">
                 <span class="rounded-full bg-red-500/10 px-3 py-1 text-sm font-semibold leading-6 text-red-400 ring-1 ring-inset ring-red-500/20">Comming Soon....</span>
                 <span class="inline-flex items-center space-x-2 text-sm font-medium leading-6 text-gray-300">
-                  <span>Just shipped v1.0</span>
+                  <span>ValconRest-API v1.0</span>
                   <ChevronRightIcon class="h-5 w-5 text-gray-500" aria-hidden="true" />
                 </span>
               </a>
             </div>
-            <h1 class="mt-10 text-4xl font-bold tracking-tight text-white sm:text-6xl">Deploy to the cloud with confidence</h1>
-            <p class="mt-6 text-lg leading-8 text-gray-300">Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat aliqua.</p>
+            <h1 class="mt-10 text-4xl font-bold tracking-tight text-white sm:text-6xl">Comprehensive REST API Solutions for WhatsApp Bots and More</h1>
+            <p class="mt-6 text-lg leading-8 text-gray-300">Unlock seamless integrations for WhatsApp bots, social media automation, and a wide range of other services. Built to simplify connectivity and enhance your app’s capabilities.</p>
             <div class="mt-10 flex items-center gap-x-6">
-              <a href="#" class="rounded-md bg-indigo-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-400">Get started</a>
-              <a href="#" class="text-sm font-semibold leading-6 text-white">Live demo <span aria-hidden="true">→</span></a>
+              <a href="#" class="rounded-md bg-indigo-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-400">Learn More</a>
+              <a href="#" class="text-sm font-semibold leading-6 text-white">Docs <span aria-hidden="true">→</span></a>
             </div>
           </div>
           <div class="mx-auto mt-16 flex max-w-2xl sm:mt-24 lg:ml-10 lg:mr-0 lg:mt-0 lg:max-w-none lg:flex-none xl:ml-120">
             <div class="max-w-3xl flex-none sm:max-w-5xl lg:max-w-none place-items-center">
-              <img src="https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif" alt="App screenshot" width="2432" height="1442" class="w-[76rem] rounded-md bg-white/5 shadow-2xl ring-1 ring-white/10" />
+              <img src="https://i.pinimg.com/originals/1e/9c/6b/1e9c6b3f315ee469d3c9ae452979b548.gif" alt="App screenshot" width="2432" height="1442" class="w-[76rem] rounded-md bg-white/5 shadow-2xl ring-1 ring-white/10" />
             </div>
           </div>
-        </div>
-      </div>
-
-      <!-- Logo cloud -->
-      <div class="mx-auto mt-8 max-w-7xl px-6 sm:mt-16 lg:px-8">
-        <h2 class="text-center text-lg font-semibold leading-8 text-white">The world’s most innovative companies use our app</h2>
-        <div class="mx-auto mt-10 grid max-w-lg grid-cols-4 items-center gap-x-8 gap-y-10 sm:max-w-xl sm:grid-cols-6 sm:gap-x-10 lg:mx-0 lg:max-w-none lg:grid-cols-5">
-          <img class="col-span-2 max-h-12 w-full object-contain lg:col-span-1" src="https://tailwindui.com/img/logos/158x48/transistor-logo-white.svg" alt="Transistor" width="158" height="48" />
-          <img class="col-span-2 max-h-12 w-full object-contain lg:col-span-1" src="https://tailwindui.com/img/logos/158x48/reform-logo-white.svg" alt="Reform" width="158" height="48" />
-          <img class="col-span-2 max-h-12 w-full object-contain lg:col-span-1" src="https://tailwindui.com/img/logos/158x48/tuple-logo-white.svg" alt="Tuple" width="158" height="48" />
-          <img class="col-span-2 max-h-12 w-full object-contain sm:col-start-2 lg:col-span-1" src="https://tailwindui.com/img/logos/158x48/savvycal-logo-white.svg" alt="SavvyCal" width="158" height="48" />
-          <img class="col-span-2 col-start-2 max-h-12 w-full object-contain sm:col-start-auto lg:col-span-1" src="https://tailwindui.com/img/logos/158x48/statamic-logo-white.svg" alt="Statamic" width="158" height="48" />
         </div>
       </div>
 
       <!-- Feature section -->
       <div class="mx-auto mt-32 max-w-7xl px-6 sm:mt-56 lg:px-8">
         <div class="mx-auto max-w-2xl text-center">
-          <h2 class="text-base font-semibold leading-7 text-indigo-400">Deploy faster</h2>
-          <p class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">Everything you need to deploy your app</p>
-          <p class="mt-6 text-lg leading-8 text-gray-300">Lorem ipsum dolor sit amet consect adipisicing elit. Possimus magnam voluptatum cupiditate veritatis in accusamus quisquam.</p>
+          <h2 class="text-base font-semibold leading-7 text-indigo-400">Faster RestAPI</h2>
+          <p class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">Powerful and Scalable API for Your Bots</p>
+          <p class="mt-6 text-lg leading-8 text-gray-300">Deploy and manage APIs tailored for WhatsApp bots, automations, and beyond. Everything you need to power up your applications in one platform.</p>
         </div>
         <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
           <dl class="grid max-w-xl grid-cols-1 gap-x-8 gap-y-16 lg:max-w-none lg:grid-cols-3">
@@ -87,14 +75,14 @@
       <div class="mt-32 sm:mt-56">
         <div class="mx-auto max-w-7xl px-6 lg:px-8">
           <div class="mx-auto max-w-2xl sm:text-center">
-            <h2 class="text-base font-semibold leading-7 text-indigo-400">Everything you need</h2>
-            <p class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">No server? No problem.</p>
+            <h2 class="text-base font-semibold leading-7 text-indigo-400">Keunggulan Teknis ValconRest-API</h2>
+            <p class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">efisien dan terintegrasi dengan berbagai layanan.</p>
             <p class="mt-6 text-lg leading-8 text-gray-300">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis.</p>
           </div>
         </div>
         <div class="relative overflow-hidden pt-16">
           <div class="mx-auto max-w-7xl px-6 lg:px-8">
-            <img src="https://tailwindui.com/img/component-images/dark-project-app-screenshot.png" alt="App screenshot" class="mb-[-12%] rounded-xl shadow-2xl ring-1 ring-white/10" width="2432" height="1442" />
+            <img src="https://i.pinimg.com/originals/ad/44/41/ad4441b39519bd210a2dee4f2c93d6bf.gif" class="mb-[-12%] rounded-xl shadow-2xl ring-1 ring-white/10" width="2432" height="1442" />
             <div class="relative" aria-hidden="true">
               <div class="absolute -inset-x-20 bottom-0 bg-gradient-to-t from-gray-900 pt-[7%]" />
             </div>
