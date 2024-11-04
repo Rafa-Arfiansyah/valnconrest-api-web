@@ -22,7 +22,7 @@
             <img class="h-11" src="https://i.ibb.co.com/ZMxDfRz/Warna-Utama-Putih-horizontal-2.png" />
             <div class="mt-24 sm:mt-32 lg:mt-16">
               <a href="#" class="inline-flex space-x-6">
-                <span class="rounded-full bg-red-500/10 px-3 py-1 text-sm font-semibold leading-6 text-red-400 ring-1 ring-inset ring-red-500/20">Comming Soon....</span>
+                <span class="rounded-full bg-red-500/10 px-3 py-1 text-sm font-semibold leading-6 text-red-400 ring-1 ring-inset ring-red-500/20">Coming Soon....</span>
                 <span class="inline-flex items-center space-x-2 text-sm font-medium leading-6 text-gray-300">
                   <span>ValconRest-API v1.0</span>
                   <ChevronRightIcon class="h-5 w-5 text-gray-500" aria-hidden="true" />
@@ -38,7 +38,7 @@
           </div>
           <div class="mx-auto mt-16 flex max-w-2xl sm:mt-24 lg:ml-10 lg:mr-0 lg:mt-0 lg:max-w-none lg:flex-none xl:ml-120">
             <div class="max-w-3xl flex-none sm:max-w-5xl lg:max-w-none place-items-center">
-              <img src="https://i.pinimg.com/originals/1e/9c/6b/1e9c6b3f315ee469d3c9ae452979b548.gif" alt="App screenshot" width="2432" height="1442" class="w-[76rem] rounded-md bg-white/5 shadow-2xl ring-1 ring-white/10" />
+              <img src="/src/assets/1.jpg" alt="anime image" width="2432" height="1442" class="w-[76rem] rounded-md bg-white/5 shadow-2xl ring-1 ring-white/10" />
             </div>
           </div>
         </div>
@@ -47,9 +47,9 @@
       <!-- Feature section -->
       <div class="mx-auto mt-32 max-w-7xl px-6 sm:mt-56 lg:px-8">
         <div class="mx-auto max-w-2xl text-center">
-          <h2 class="text-base font-semibold leading-7 text-indigo-400">Faster RestAPI</h2>
-          <p class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">Powerful and Scalable API for Your Bots</p>
-          <p class="mt-6 text-lg leading-8 text-gray-300">Deploy and manage APIs tailored for WhatsApp bots, automations, and beyond. Everything you need to power up your applications in one platform.</p>
+          <h2 class="text-base font-semibold leading-7 text-indigo-400">ValconRestAPI Lebih Cepat</h2>
+          <p class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">API Powerful dan Skalabel untuk Bot dan Aplikasi Anda</p>
+          <p class="mt-6 text-lg leading-8 text-gray-300">Deploy dan kelola API khusus untuk bot WhatsApp, automasi, dan lainnya dengan layanan sewa API kami. Semua yang Anda butuhkan untuk memperkuat aplikasi Anda ada di satu platform praktis.</p>
         </div>
         <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
           <dl class="grid max-w-xl grid-cols-1 gap-x-8 gap-y-16 lg:max-w-none lg:grid-cols-3">
@@ -77,12 +77,11 @@
           <div class="mx-auto max-w-2xl sm:text-center">
             <h2 class="text-base font-semibold leading-7 text-indigo-400">Keunggulan Teknis ValconRest-API</h2>
             <p class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">efisien dan terintegrasi dengan berbagai layanan.</p>
-            <p class="mt-6 text-lg leading-8 text-gray-300">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis.</p>
           </div>
         </div>
         <div class="relative overflow-hidden pt-16">
           <div class="mx-auto max-w-7xl px-6 lg:px-8">
-            <img src="https://i.pinimg.com/originals/ad/44/41/ad4441b39519bd210a2dee4f2c93d6bf.gif" class="mb-[-12%] rounded-xl shadow-2xl ring-1 ring-white/10" width="2432" height="1442" />
+            <img src="/src/assets/2.jpeg" class="mb-[-12%] rounded-xl shadow-2xl ring-1 ring-white/10" width="2432" height="1442" />
             <div class="relative" aria-hidden="true">
               <div class="absolute -inset-x-20 bottom-0 bg-gradient-to-t from-gray-900 pt-[7%]" />
             </div>
@@ -106,8 +105,8 @@
       <div class="mx-auto mt-32 max-w-7xl px-6 sm:mt-56 lg:px-8">
         <div class="mx-auto max-w-2xl lg:mx-0 lg:max-w-xl">
           <h2 class="text-base font-semibold leading-8 text-indigo-400">Our track record</h2>
-          <p class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">Trusted by thousands of developers&nbsp;worldwide</p>
-          <p class="mt-6 text-lg leading-8 text-gray-300">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.</p>
+          <p class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">Nikmati layanan REST API yang andal dan aman. ValconRest API hadir untuk mendukung produktivitas Anda dengan berbagai fitur yang dapat diandalkan.</p>
+          <p class="mt-6 text-lg leading-8 text-gray-300">Hingga saat ini, lebih dari 12 Ribu total request, dengan 800+ pengguna aktif yang terus bertambah setiap harinya.</p>
         </div>
         <dl class="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-10 text-white sm:mt-20 sm:grid-cols-2 sm:gap-y-16 lg:mx-0 lg:max-w-none lg:grid-cols-4">
           <div v-for="stat in stats" :key="stat.id" class="flex flex-col gap-y-3 border-l border-white/10 pl-6">
@@ -134,11 +133,11 @@
           <div class="aspect-[1108/632] w-[69.25rem] flex-none bg-gradient-to-r from-[#80caff] to-[#4f46e5] opacity-20" style="clip-path: polygon(73.6% 51.7%, 91.7% 11.8%, 100% 46.4%, 97.4% 82.2%, 92.5% 84.9%, 75.7% 64%, 55.3% 47.5%, 46.5% 49.4%, 45% 62.9%, 50.3% 87.2%, 21.3% 64.1%, 0.1% 100%, 5.4% 51.1%, 21.4% 63.9%, 58.9% 0.2%, 73.6% 51.7%)" />
         </div>
         <div class="mx-auto max-w-2xl text-center">
-          <h2 class="text-3xl font-bold tracking-tight text-white sm:text-4xl">Boost your productivity.<br />Start using our app today.</h2>
-          <p class="mx-auto mt-6 max-w-xl text-lg leading-8 text-gray-300">Incididunt sint fugiat pariatur cupidatat consectetur sit cillum anim id veniam aliqua proident excepteur commodo do ea.</p>
+          <h2 class="text-3xl font-bold tracking-tight text-white sm:text-4xl">Tingkatkan Produktivitas Anda.<br /> Mulai gunakan ValconRest API hari ini.</h2>
+          <p class="mx-auto mt-6 max-w-xl text-lg leading-8 text-gray-300">Nikmati integrasi API yang cepat dan aman untuk mendukung aplikasi Anda. Solusi mudah dan andal untuk kebutuhan pengembangan Anda.</p>
           <div class="mt-10 flex items-center justify-center gap-x-6">
-            <a href="#" class="rounded-md bg-white px-3.5 py-2.5 text-sm font-semibold text-gray-900 shadow-sm hover:bg-gray-100 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white">Get started</a>
-            <a href="#" class="text-sm font-semibold leading-6 text-white">Learn more <span aria-hidden="true">→</span></a>
+            <a href="wa.me/6285784828303" class="rounded-md bg-white px-3.5 py-2.5 text-sm font-semibold text-gray-900 shadow-sm hover:bg-gray-100 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white">Contact Us</a>
+            <a href="#" class="text-sm font-semibold leading-6 text-white">API docs <span aria-hidden="true">→</span></a>
           </div>
         </div>
       </div>
@@ -155,7 +154,7 @@
               <component :is="item.icon" class="h-6 w-6" aria-hidden="true" />
             </a>
           </div>
-          <p class="mt-8 text-xs leading-5 text-gray-400 md:order-1 md:mt-0">&copy; 2020 Your Company, Inc. All rights reserved.</p>
+          <p class="mt-8 text-xs leading-5 text-gray-400 md:order-1 md:mt-0">&copy; 2020 Valconrest-API, Inc. All rights reserved.</p>
         </div>
       </div>
     </footer>
@@ -167,7 +166,6 @@ import { defineComponent, h } from 'vue'
 import {
   ArrowPathIcon,
   ChevronRightIcon,
-  CloudArrowUpIcon,
   Cog6ToothIcon,
   FingerPrintIcon,
   LockClosedIcon,
@@ -176,47 +174,42 @@ import {
 import { BoltIcon, CalendarDaysIcon, UsersIcon } from '@heroicons/vue/24/outline'
 
 const primaryFeatures = [
-  {
-    name: 'Server monitoring',
+{
+    name: 'Server Monitoring',
     description:
-      'Non quo aperiam repellendus quas est est. Eos aut dolore aut ut sit nesciunt. Ex tempora quia. Sit nobis consequatur dolores incidunt.',
+      'Pantau performa API Anda secara real-time. Dapatkan notifikasi untuk setiap masalah dan analisis kinerja untuk menjaga layanan Anda tetap optimal.',
     href: '#',
     icon: BoltIcon,
   },
   {
-    name: 'Collaborate',
+    name: 'Kolaborasi',
     description:
-      'Vero eum voluptatem aliquid nostrum voluptatem. Vitae esse natus. Earum nihil deserunt eos quasi cupiditate. A inventore et molestiae natus.',
+      'Bekerja sama dengan tim Anda dengan mudah. Integrasi alat komunikasi dan kolaborasi untuk memaksimalkan produktivitas proyek Anda.',
     href: '#',
     icon: UsersIcon,
   },
   {
-    name: 'Task scheduling',
+    name: 'Penjadwalan Tugas',
     description:
-      'Et quod quaerat dolorem quaerat architecto aliquam accusantium. Ex adipisci et doloremque autem quia quam. Quis eos molestiae at iure impedit.',
+      'Atur dan jadwalkan tugas API Anda secara efisien. Dapatkan kontrol penuh atas kapan dan bagaimana API Anda beroperasi untuk memaksimalkan efisiensi.',
     href: '#',
     icon: CalendarDaysIcon,
   },
-]
+];
 const secondaryFeatures = [
   {
-    name: 'Push to deploy.',
-    description: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit aute id magna.',
-    icon: CloudArrowUpIcon,
-  },
-  {
     name: 'SSL certificates.',
-    description: 'Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo.',
+    description: 'Keamanan adalah prioritas utama kami. Dengan ValconRest-API, Anda mendapatkan sertifikat SSL yang terintegrasi, memastikan bahwa semua data yang dikirim dan diterima aman dari serangan. SSL ini membantu membangun kepercayaan pengguna dengan melindungi informasi sensitif selama transmisi.',
     icon: LockClosedIcon,
   },
   {
     name: 'Simple queues.',
-    description: 'Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus.',
+    description: 'Kami menyediakan mekanisme antrean sederhana untuk memproses permintaan secara efisien. Ini memungkinkan Anda untuk menangani lalu lintas tinggi tanpa mengorbankan kinerja, menjadikan aplikasi Anda lebih responsif dan stabil di saat-saat puncak.',
     icon: ArrowPathIcon,
   },
   {
     name: 'Advanced security.',
-    description: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit aute id magna.',
+    description: 'Dengan fitur keamanan canggih, ValconRest-API melindungi aplikasi Anda dari ancaman dan serangan. Kami menerapkan berbagai protokol keamanan, termasuk otentikasi dua faktor dan pengendalian akses berbasis peran, untuk menjaga data dan integritas aplikasi Anda.',
     icon: FingerPrintIcon,
   },
   {
@@ -226,59 +219,21 @@ const secondaryFeatures = [
   },
   {
     name: 'Database backups.',
-    description: 'Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. ',
+    description: 'API kami dirancang untuk menjadi kuat dan fleksibel, memungkinkan integrasi dengan berbagai layanan dan aplikasi lain. Anda dapat dengan mudah memanggil API kami untuk menambahkan fungsionalitas baru dan mengakses data secara efisien.',
     icon: ServerIcon,
   },
 ]
 const stats = [
-  { id: 1, name: 'Developers on the platform', value: '8,000+' },
-  { id: 2, name: 'Daily requests', value: '900m+' },
-  { id: 3, name: 'Uptime guarantee', value: '99.9%' },
-  { id: 4, name: 'Projects deployed', value: '12m' },
+  { id: 1, name: 'Pengguna Aktif', value: '800+' },
+  { id: 2, name: 'Daily requests', value: '1,000+' },
+  { id: 3, name: 'Total request', value: '12,000+' },
+  { id: 4, name: 'Uptime', value: '24/7' },
 ]
 const footerNavigation = {
-  solutions: [
-    { name: 'Hosting', href: '#' },
-    { name: 'Data Services', href: '#' },
-    { name: 'Uptime Monitoring', href: '#' },
-    { name: 'Enterprise Services', href: '#' },
-  ],
-  support: [
-    { name: 'Pricing', href: '#' },
-    { name: 'Documentation', href: '#' },
-    { name: 'Guides', href: '#' },
-    { name: 'API Reference', href: '#' },
-  ],
-  company: [
-    { name: 'About', href: '#' },
-    { name: 'Blog', href: '#' },
-    { name: 'Jobs', href: '#' },
-    { name: 'Press', href: '#' },
-    { name: 'Partners', href: '#' },
-  ],
-  legal: [
-    { name: 'Claim', href: '#' },
-    { name: 'Privacy', href: '#' },
-    { name: 'Terms', href: '#' },
-  ],
   social: [
     {
-      name: 'Facebook',
-      href: '#',
-      icon: defineComponent({
-        render: () =>
-          h('svg', { fill: 'currentColor', viewBox: '0 0 24 24' }, [
-            h('path', {
-              'fill-rule': 'evenodd',
-              d: 'M22 12c0-5.523-4.477-10-10-10S2 6.477 2 12c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V12h2.54V9.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V12h2.773l-.443 2.89h-2.33v6.988C18.343 21.128 22 16.991 22 12z',
-              'clip-rule': 'evenodd',
-            }),
-          ]),
-      }),
-    },
-    {
       name: 'Instagram',
-      href: '#',
+      href: 'https://instagram.com/rrfa.ar',
       icon: defineComponent({
         render: () =>
           h('svg', { fill: 'currentColor', viewBox: '0 0 24 24' }, [
@@ -304,7 +259,7 @@ const footerNavigation = {
     },
     {
       name: 'GitHub',
-      href: '#',
+      href: 'https://github.com/Rafa-Arfiansyah',
       icon: defineComponent({
         render: () =>
           h('svg', { fill: 'currentColor', viewBox: '0 0 24 24' }, [
