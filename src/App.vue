@@ -154,7 +154,7 @@
               <component :is="item.icon" class="h-6 w-6" aria-hidden="true" />
             </a>
           </div>
-          <p class="mt-8 text-xs leading-5 text-gray-400 md:order-1 md:mt-0">&copy; 2020 Valconrest-API, Inc. All rights reserved.</p>
+          <p class="mt-8 text-xs leading-5 text-gray-400 md:order-1 md:mt-0">&copy; 2024 Valconrest-API, All rights reserved.</p>
         </div>
       </div>
     </footer>
